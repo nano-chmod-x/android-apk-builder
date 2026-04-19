@@ -20,10 +20,13 @@ A complete Android project template that demonstrates how to build APK files usi
 ## 🚀 Quick Start
 
 1. **[Fork this repository](https://github.com/wasishah33/android-apk-builder/fork)**
-2. **Clone to your computer**: `git clone https://github.com/wasishah33/android-apk-builder.git`
-3. **Make your changes** (see [Customization Guide](#-customization-guide))
-4. **Push to GitHub**: GitHub Actions automatically builds your APK
-5. **Download your APK** from the Actions tab
+2. **Clone to your computer**:
+```bash
+git clone https://github.com/nano-chmod-x/android-apk-builder.git
+```
+4. **Make your changes** (see [Customization Guide](#-customization-guide))
+5. **Push to GitHub**: GitHub Actions automatically builds your APK
+6. **Download your APK** from the Actions tab
 
 ## 📋 Prerequisites
 
