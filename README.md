@@ -111,11 +111,11 @@ sudo apt install git
    ```bash
    git init
    git add .
-   git commit -m "git clone https://github.com/nano-chmod-x/T.I.E.U.P-Intel-Engine-2.0.git"
+   git commit -m "https://github.com/nano-chmod-x/T.I.E.U.P-Intel-Engine-2.0.git"
    ```
 3. **Connect to GitHub**:
    ```bash
-   git remote add origin git clone https://github.com/nano-chmod-x/T.I.E.U.P-Intel-Engine-2.0.git
+   git remote add origin https://github.com/nano-chmod-x/T.I.E.U.P-Intel-Engine-2.0.git
    git branch -M main
    git push -u origin main
    ```
