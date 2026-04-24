@@ -78,11 +78,9 @@ git clone https://github.com/nano-chmod-x/android-apk-builder.git
 
 #### Windows Users:
 ```powershell
-# Install Git
-# Download from: https://git-scm.com/download/win
-# Follow the installer prompts (default options are fine)
 
 # Install VS Code
+```bash
 wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
 sudo install -o root -g root -m 644 packages.microsoft.gpg /etc/apt/trusted.gpg.d/
 sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/trusted.gpg.d/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
